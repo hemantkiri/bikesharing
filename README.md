@@ -11,7 +11,7 @@ Scroll down the list to and download "201908-citibike-tripdata.csv.zip" file.
 # Results:
 Using the converted datatype created below listed visualizations images. I have also attached ‘Deliverable1 step7’ image from ‘NYC_CitiBike_Challenge.ipynb’ file.
 
-![Checkout Times for Users Viz](Checkout_Times_for_Users_Viz.png)
+![Checkout Times for Users](Checkout_Times_for_Users.png)
 ![Checkout Times by Gender](Checkout_Times_by_Gender.png)
 ![Trips by Weekday per Hour](Trips_by_Weekday_per_Hour.png)
 ![Trips by Gender (Weekday per Hour)](Trips_by_Gender_weekday_per_Hour.png)
