@@ -14,7 +14,7 @@ Using the converted datatype created below listed visualizations images. I have 
 ![Checkout Times for Users Viz](Checkout_Times_for_Users_Viz.png)
 ![Checkout Times by Gender](Checkout_Times_by_Gender.png)
 ![Trips by Weekday per Hour](Trips_by_Weekday_per_Hour.png)
-![Trips by Gender (Weekday per Hour)](Trips_by_Gender_Weekday_per_Hour.png)
+![Trips by Gender (Weekday per Hour)](Trips_by_Gender_weekday_per_Hour.png)
 ![User Trips by Gender by Weekday](User_Trips_by_Gender_by_Weekday.png)
 ![Number of Rides per Hour](Number_of_Rides_per_Hour.png)
 ![Number of Rides with Bike ID](Number_of_Rides_with_Bike_ID.png)
